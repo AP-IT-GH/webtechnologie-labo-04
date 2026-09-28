@@ -8,3 +8,7 @@
   * de hoofdinhoud (section) neemt 62% in en de zijbalk (aside) 38%
   * de navigatie (nav) is de helft van de header
   * de article-elementen krijgen een gestipte rode kader
+
+## Verwacht resultaat
+
+![universal-box](./opgave.png)

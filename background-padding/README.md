@@ -7,3 +7,6 @@ Kopieer je oplossing van 'background' uit labo 3 en werk deze verder uit met de 
     - Geef de body vanboven 10px padding
     - Geef elke heading een padding van 20px
     - geef elke paragraaf een padding van 20px
+## Verwacht resultaat
+
+![background-padding](./opgave.png)

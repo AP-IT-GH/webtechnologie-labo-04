@@ -20,3 +20,6 @@
 **blauwe cirkel**
 * achtergrondkleur is blauw 
 * rand is gestippeld (dashed)
+## Verwacht resultaat
+
+![circles](./opgave.png)

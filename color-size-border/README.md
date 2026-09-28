@@ -8,3 +8,7 @@
   * onderlijn enkel de ondertitel
   * zet de paragrafen op 16px
   * geef de afbeelding een gestipte zwarte rand van 5px dik
+
+## Verwacht resultaat
+
+![color-size-border](./opgave.png)

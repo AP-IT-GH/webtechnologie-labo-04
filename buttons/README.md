@@ -48,3 +48,7 @@ Wanneer de gebruiker op de tweede knop klikt (en ingedrukt houdt):
 Wanneer de derde knop de focus krijgt (bijvoorbeeld via de tab-toets) wordt een duidelijke outline toegevoegd.
 
 > **TIP**: Gebruik de [outline](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/outline) css property om rand te maken
+
+## Verwacht resultaat
+
+![buttons](./opgave.gif)
