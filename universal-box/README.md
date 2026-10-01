@@ -1,9 +1,9 @@
 # universal-box
 
 * index.html
-  * gebruik de elementen voor een basis HTML5-website (`header`, `nav`, `footer`, `section`, `article` en `aside`)
+  * gebruik de elementen voor een basis HTML5-website (`header`, `main`, `nav`, `footer`, `section`, `article`, `aside` en `footer`)
 * vul de stylesheet in
-  * plaats een zwarte, dunne kader rond elk element
+  * plaats een zwarte, dunne kader rond elk element. Gebruik daarvoor de universal selector.
   * laat de header en footer de volledige breedte innemen
   * de hoofdinhoud (section) neemt 62% in en de zijbalk (aside) 38%
   * de navigatie (nav) is de helft van de header
