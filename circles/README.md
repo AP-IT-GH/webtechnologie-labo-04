@@ -4,7 +4,8 @@
 * titels worden in het vet gezet
 
 **alle cirkels**
-* alle cirkels hebben een hoogte en breedte van 200px
+* gebruik een `div`-element voor de cirkels te maken.
+* alle cirkels hebben een hoogte (height) en breedte (width) van 200px
 * alle cirkels hebben een border radius van 50%
 * alle cirkels hebben een zwarte rand van 10px
 * alle cirkels hebben hun marge op automatisch staan (margin: auto)
@@ -20,6 +21,7 @@
 **blauwe cirkel**
 * achtergrondkleur is blauw 
 * rand is gestippeld (dashed)
+
 ## Verwacht resultaat
 
 ![circles](./opgave.png)
