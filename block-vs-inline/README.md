@@ -5,7 +5,7 @@ wanneer je naar een `div` of een `span` grijpt.
 
 Lees eerst de theorie over [block vs. inline](https://webtechnologie.apload.be/html/block-vs-inline).
 
-Maak zelf `index.html` en `css/style.css` aan en link de reset en je eigen stylesheet in de `head`.
+Maak zelf `index.html` en `css/style.css` aan en link `normalize.css` en je eigen stylesheet in de `head`.
 
 ## Stap 1: inline tekst markeren
 
