@@ -27,13 +27,13 @@ webtechnologie/
 
 ## Oefeningen
 
-1. [color-size-border](color-size-border/)
-2. [background-padding](background-padding/)
-3. [ph-scale-box](ph-scale-box/)
-4. [universal-box](universal-box/)
-5. [circles](circles/)
-6. [news](news/)
-7. [vierde](vierde/)
-8. [buttons](buttons/)
+1. [block-vs-inline](block-vs-inline/)
+2. [color-size-border](color-size-border/)
+3. [background-padding](background-padding/)
+4. [ph-scale-box](ph-scale-box/)
+5. [universal-box](universal-box/)
+6. [circles](circles/)
+7. [news](news/)
+8. [vierde](vierde/)
 9. [reset-vs-normalize](reset-vs-normalize/)
 10. [pseudo-festival](pseudo-festival/)
