@@ -107,7 +107,7 @@ Ga je met de muis over een item, dan krijgt dat item een achtergrond `#e4572e` m
 
 > **TIP**: zet deze regel **onder** die van `:nth-child(even)`. Beide selectors zijn even
 > specifiek, dus de regel die als laatste in je bestand staat, wint (zie
-> [voorrangsregels](https://webtechnologie.apload.be/css/cascade)).
+> [voorrangsregels](https://webtechnologie.apload.be/css/cascade/specificiteit)).
 
 ## deel 4: praktische info
 
